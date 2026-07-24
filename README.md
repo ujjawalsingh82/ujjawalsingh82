@@ -1,38 +1,203 @@
-<h-align="center">
-  <img src="YAHAN_APNE_BANNER_KA_IMAGE_LINK_DAALEIN" width="100%" alt="Agent Banner">
-</h>
+<div align="center">
 
-### ⚡ SYSTEM STATUS & CORE COMPETENCIES
-> STATUS: [CREATIVE TECHNOLOGIST] | FOCUS: [CYBERNETIC UI, AI, GAME ARCHITECTURES]
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1120,50:00E5FF,100:8B5CF6&text=UJJAWAL%20KUMAR%20SINGH&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=AI%20Developer%20%7C%20Django%20Developer%20%7C%20Three.js%20Developer&descAlignY=58"/>
 
-* **Languages & Core:** Python, JavaScript, C++
-* **AI & Machine Learning:** Decision Trees, Fuzzy Logic, Soft Computing
-* **Tools & Frameworks:** Jupyter Notebook, Packet Tracer, React, WebGL
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+Futuristic+Software;Artificial+Intelligence;Computer+Vision;Three.js+Experiences;Django+Backend+Architecture"/>
 
-### 🚀 FEATURED PROJECT ARCHIVES
+<br><br>
 
-| Project Archive | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[School Mgmt Portal](https://github.com/username/repo)** | `React` `Firebase` | Streamlined portal management system. |
-| **[AI Thyroid Prediction](https://github.com/username/repo)** | `Python` `Machine Learning` | Predictive diagnostic modeling tool. |
-| **[Network Routing Architectures](https://github.com/username/repo)** | `Packet Tracer` | Complex topology simulations. |
-| **[Streamer Protection AI](https://github.com/username/repo)** | `Python` `AI` | Automated content moderation framework. |
+<img src="https://img.shields.io/badge/Status-Building%20Future-00E5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-1E293B?style=for-the-badge"/>
+
+</div>
 
 ---
 
-### 🌐 COMMUNITY & CONNECT
+# ⚡ About Me
 
-<p align="left">
-  <a href="A_APKA_YOUTUBE_LINK"><img src="https://img.shields.io/badge/YouTube-Uncutverse-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="AAPKA_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="AAPKA_DISCORD_LINK"><img src="https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</p>
+```yaml
+Name        : Ujjawal Kumar Singh
+
+Role        : AI Developer
+
+Education   : B.Tech Computer Science
+
+Focus       : AI • Django • Three.js
+
+Learning    : Machine Learning
+              Computer Vision
+              Full Stack Development
+
+Goal        : Building Premium Software Products
+```
 
 ---
 
-### 📊 GITHUB STATS
+# 🚀 Tech Arsenal
+
+<table>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/><br>
+
+Python
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=django"/><br>
+
+Django
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=flask"/><br>
+
+Flask
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript"/><br>
+
+JavaScript
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=threejs"/><br>
+
+Three.js
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=opencv"/><br>
+
+OpenCV
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/><br>
+
+Git
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github"/><br>
+
+GitHub
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=linux"/><br>
+
+Linux
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode"/><br>
+
+VS Code
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛰 Current Mission
+
+```text
+██████████████████████████████████
+
+MISSION STATUS : ACTIVE
+
+Developing :
+✔ AI Stream Protection
+
+✔ Immersive 3D Portfolio
+
+✔ Django Systems
+
+✔ Computer Vision
+
+██████████████████████████████████
+```
+
+---
+
+# 🌌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🛡 AI Stream Protection | Deepfake & Stream Protection |
+| 🌍 3D Portfolio | Three.js Interactive Portfolio |
+| 🤖 AI Assistant | Offline AI Chatbot |
+| 🌐 Django Systems | Full Stack Web Applications |
+
+---
+
+# 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AAPKA_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💻 "Code. Build. Innovate. Repeat."
+
+⭐ Thanks for visiting my profile ⭐
+
+</div>
