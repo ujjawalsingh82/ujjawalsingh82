@@ -413,7 +413,6 @@ Future ██████████
 
 </div>
 
-> ⚠️ **Important:** Snake animation tabhi dikhegi jab tum GitHub Actions se us SVG ko generate karoge. Main uska workflow bhi de sakta hoon.
 
 ---
 
